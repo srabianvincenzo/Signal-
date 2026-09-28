@@ -1,0 +1,142 @@
+company_domain,company_name,metric,value,unit,observed_at,source_url
+tensorfold.example,Tensorfold,github.stars,604,stars,2026-03-17T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,1090,stars,2026-03-24T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,1310,stars,2026-03-31T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,1502,stars,2026-04-07T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,1755,stars,2026-04-14T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,1942,stars,2026-04-21T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2092,stars,2026-04-28T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2219,stars,2026-05-05T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2280,stars,2026-05-12T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2341,stars,2026-05-19T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2404,stars,2026-05-26T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2440,stars,2026-06-02T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,github.stars,2476,stars,2026-06-09T23:59:59+00:00,https://tensorfold.example/github
+tensorfold.example,Tensorfold,hn.launch_points,35,points,2026-03-12T12:00:00+00:00,https://tensorfold.example/hn-launch
+quillgate.example,Quillgate,github.stars,147,stars,2026-01-29T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,309,stars,2026-02-05T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,426,stars,2026-02-12T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,551,stars,2026-02-19T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,621,stars,2026-02-26T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,678,stars,2026-03-05T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,735,stars,2026-03-12T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,789,stars,2026-03-19T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,820,stars,2026-03-26T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,851,stars,2026-04-02T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,873,stars,2026-04-09T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,898,stars,2026-04-16T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,github.stars,915,stars,2026-04-23T23:59:59+00:00,https://quillgate.example/github
+quillgate.example,Quillgate,hn.launch_points,310,points,2026-01-24T12:00:00+00:00,https://quillgate.example/hn-launch
+quillgate.example,Quillgate,waitlist_size,1500,signups,2026-03-08T00:00:00+00:00,https://quillgate.example/blog/update
+latentry.example,Latentry,hn.launch_points,35,points,2025-11-20T12:00:00+00:00,https://latentry.example/hn-launch
+latentry.example,Latentry,waitlist_size,800,signups,2026-01-02T00:00:00+00:00,https://latentry.example/blog/update
+harborline.example,Harborline AI,github.stars,390,stars,2026-04-09T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,751,stars,2026-04-16T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,1060,stars,2026-04-23T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,1327,stars,2026-04-30T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,1541,stars,2026-05-07T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,1663,stars,2026-05-14T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,1818,stars,2026-05-21T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,1941,stars,2026-05-28T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,2001,stars,2026-06-04T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,2055,stars,2026-06-11T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,2100,stars,2026-06-18T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,2133,stars,2026-06-25T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,github.stars,2164,stars,2026-07-02T23:59:59+00:00,https://harborline.example/github
+harborline.example,Harborline AI,hn.launch_points,80,points,2026-04-04T12:00:00+00:00,https://harborline.example/hn-launch
+kestrelcompute.example,Kestrel Compute,hn.launch_points,520,points,2026-02-16T12:00:00+00:00,https://kestrelcompute.example/hn-launch
+gradwell.example,Gradwell,hn.launch_points,80,points,2026-05-08T12:00:00+00:00,https://gradwell.example/hn-launch
+gradwell.example,Gradwell,waitlist_size,300,signups,2026-06-20T00:00:00+00:00,https://gradwell.example/blog/update
+lumentrace.example,Lumen Trace,github.stars,74,stars,2026-01-15T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,158,stars,2026-01-22T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,233,stars,2026-01-29T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,281,stars,2026-02-05T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,314,stars,2026-02-12T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,337,stars,2026-02-19T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,370,stars,2026-02-26T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,392,stars,2026-03-05T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,407,stars,2026-03-12T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,422,stars,2026-03-19T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,433,stars,2026-03-26T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,445,stars,2026-04-02T23:59:59+00:00,https://lumentrace.example/github
+lumentrace.example,Lumen Trace,github.stars,455,stars,2026-04-09T23:59:59+00:00,https://lumentrace.example/github
+parseclabs.example,Parsec Labs,github.stars,25,stars,2026-06-24T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,51,stars,2026-07-01T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,67,stars,2026-07-08T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,83,stars,2026-07-15T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,95,stars,2026-07-22T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,107,stars,2026-07-29T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,117,stars,2026-08-05T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,120,stars,2026-08-12T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,125,stars,2026-08-19T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,129,stars,2026-08-26T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,131,stars,2026-09-02T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,138,stars,2026-09-09T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,github.stars,142,stars,2026-09-16T23:59:59+00:00,https://parseclabs.example/github
+parseclabs.example,Parsec Labs,hn.launch_points,310,points,2026-06-19T12:00:00+00:00,https://parseclabs.example/hn-launch
+synthkind.example,Synthkind,hn.launch_points,80,points,2026-03-29T12:00:00+00:00,https://synthkind.example/hn-launch
+synthkind.example,Synthkind,waitlist_size,12000,signups,2026-05-11T00:00:00+00:00,https://synthkind.example/blog/update
+moatwise.example,Moatwise,github.stars,21,stars,2026-02-10T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,44,stars,2026-02-17T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,57,stars,2026-02-24T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,75,stars,2026-03-03T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,87,stars,2026-03-10T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,99,stars,2026-03-17T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,108,stars,2026-03-24T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,114,stars,2026-03-31T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,119,stars,2026-04-07T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,126,stars,2026-04-14T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,132,stars,2026-04-21T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,134,stars,2026-04-28T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,github.stars,139,stars,2026-05-05T23:59:59+00:00,https://moatwise.example/github
+moatwise.example,Moatwise,hn.launch_points,80,points,2026-02-05T12:00:00+00:00,https://moatwise.example/hn-launch
+moatwise.example,Moatwise,waitlist_size,800,signups,2026-03-20T00:00:00+00:00,https://moatwise.example/blog/update
+driftwood.example,Driftwood,waitlist_size,12000,signups,2026-08-15T00:00:00+00:00,https://driftwood.example/blog/update
+stackmoor.example,Stackmoor,github.stars,215,stars,2026-05-26T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,410,stars,2026-06-02T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,551,stars,2026-06-09T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,661,stars,2026-06-16T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,739,stars,2026-06-23T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,805,stars,2026-06-30T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,847,stars,2026-07-07T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,894,stars,2026-07-14T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,929,stars,2026-07-21T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,963,stars,2026-07-28T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,991,stars,2026-08-04T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,1007,stars,2026-08-11T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,github.stars,1020,stars,2026-08-18T23:59:59+00:00,https://stackmoor.example/github
+stackmoor.example,Stackmoor,hn.launch_points,150,points,2026-05-21T12:00:00+00:00,https://stackmoor.example/hn-launch
+veritune.example,Veritune,hn.launch_points,35,points,2026-03-05T12:00:00+00:00,https://veritune.example/hn-launch
+veritune.example,Veritune,waitlist_size,1500,signups,2026-04-17T00:00:00+00:00,https://veritune.example/blog/update
+northvane.example,Northvane,waitlist_size,12000,signups,2026-07-17T00:00:00+00:00,https://northvane.example/blog/update
+pinecrestruntime.example,Pinecrest Runtime,github.stars,36,stars,2026-08-12T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,github.stars,57,stars,2026-08-19T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,github.stars,72,stars,2026-08-26T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,github.stars,83,stars,2026-09-02T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,github.stars,98,stars,2026-09-09T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,github.stars,107,stars,2026-09-16T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,github.stars,118,stars,2026-09-23T23:59:59+00:00,https://pinecrestruntime.example/github
+pinecrestruntime.example,Pinecrest Runtime,waitlist_size,12000,signups,2026-09-19T00:00:00+00:00,https://pinecrestruntime.example/blog/update
+relaymind.example,Relaymind,github.stars,161,stars,2026-04-16T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,368,stars,2026-04-23T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,475,stars,2026-04-30T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,585,stars,2026-05-07T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,658,stars,2026-05-14T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,714,stars,2026-05-21T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,757,stars,2026-05-28T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,806,stars,2026-06-04T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,834,stars,2026-06-11T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,858,stars,2026-06-18T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,875,stars,2026-06-25T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,899,stars,2026-07-02T23:59:59+00:00,https://relaymind.example/github
+relaymind.example,Relaymind,github.stars,917,stars,2026-07-09T23:59:59+00:00,https://relaymind.example/github
+ferrous.example,Ferrous AI,github.stars,520,stars,2026-07-22T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,960,stars,2026-07-29T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,1225,stars,2026-08-05T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,1484,stars,2026-08-12T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,1660,stars,2026-08-19T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,1812,stars,2026-08-26T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,1946,stars,2026-09-02T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,2038,stars,2026-09-09T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,2111,stars,2026-09-16T23:59:59+00:00,https://ferrous.example/github
+ferrous.example,Ferrous AI,github.stars,2197,stars,2026-09-23T23:59:59+00:00,https://ferrous.example/github

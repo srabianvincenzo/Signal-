@@ -1,0 +1,20 @@
+company_domain,company_name,round_type,instrument,amount_raised_usd,valuation_cap_usd,cap_type,discount_rate,pre_money_usd,post_money_usd,pro_rata_rights,announced_date,closed_date,lead_investor,investors,confidence,source_url,notes
+quillgate.example,Quillgate,pre_seed,safe_post,750000,10000000,post_money,,,,,2026-04-22,,,,reported,https://quillgate.example/blog/funding,
+latentry.example,Latentry,pre_seed,safe_post,750000,20000000,post_money,,,,,2025-11-30,,Gridline VC (fictional),,reported,https://latentry.example/blog/funding,
+harborline.example,Harborline AI,pre_seed,safe_post,500000,,,,,,yes,2026-04-02,,Y Combinator,Y Combinator,reported,https://harborline.example/blog/launch,"Standard YC deal: $125K for 7% plus a $375K uncapped MFN SAFE. No cap, so ownership is set by the next priced round."
+harborline.example,Harborline AI,pre_seed,safe_post,1200000,,,,,,yes,2026-06-18,,,,estimated,https://harborline.example/blog/funding,Cap not disclosed.
+gradwell.example,Gradwell,pre_seed,safe_post,750000,8000000,post_money,,,,,2026-05-16,,Alder Capital (fictional),,reported,https://gradwell.example/blog/funding,
+lumentrace.example,Lumen Trace,pre_seed,safe_post,,16000000,post_money,,,,yes,2026-02-01,,,,reported,https://lumentrace.example/blog/funding,
+synthkind.example,Synthkind,pre_seed,unknown,1000000,,,,,,,2026-06-03,,Angel syndicate,,estimated,https://synthkind.example/blog/funding,Cap not disclosed.
+moatwise.example,Moatwise,pre_seed,safe_post,500000,14000000,post_money,,,,no,2026-03-24,,Northbeam Ventures (fictional),,reported,https://moatwise.example/blog/funding,
+driftwood.example,Driftwood,pre_seed,safe_post,500000,,,,,,yes,2026-07-01,,Y Combinator,Y Combinator,reported,https://driftwood.example/blog/launch,"Standard YC deal: $125K for 7% plus a $375K uncapped MFN SAFE. No cap, so ownership is set by the next priced round."
+driftwood.example,Driftwood,pre_seed,safe_post,1200000,12000000,post_money,,,,,2026-08-09,,Northbeam Ventures (fictional),,reported,https://driftwood.example/blog/funding,
+cobaltkernel.example,Cobalt Kernel,pre_seed,safe_post,500000,10000000,post_money,,,,yes,2026-07-04,,Northbeam Ventures (fictional),,reported,https://cobaltkernel.example/blog/funding,
+stackmoor.example,Stackmoor,pre_seed,safe_post,1500000,10000000,post_money,,,,,2026-06-11,,,,reported,https://stackmoor.example/blog/funding,
+northvane.example,Northvane,pre_seed,safe_post,500000,,,,,,yes,2026-06-02,,Y Combinator,Y Combinator,reported,https://northvane.example/blog/launch,"Standard YC deal: $125K for 7% plus a $375K uncapped MFN SAFE. No cap, so ownership is set by the next priced round."
+northvane.example,Northvane,pre_seed,safe_post,500000,,,,,,yes,2026-07-09,,,,estimated,https://northvane.example/blog/funding,Cap not disclosed.
+oxbowdata.example,Oxbow Data,pre_seed,safe_post,750000,10000000,post_money,,,,no,2026-02-18,,,,reported,https://oxbowdata.example/blog/funding,
+pinecrestruntime.example,Pinecrest Runtime,pre_seed,safe_post,750000,8000000,post_money,,,,,2026-10-10,,Pioneer Fund (fictional),,reported,https://pinecrestruntime.example/blog/funding,
+relaymind.example,Relaymind,pre_seed,safe_post,1000000,,,,,,yes,2026-06-06,,Gridline VC (fictional),,estimated,https://relaymind.example/blog/funding,Cap not disclosed.
+ferrous.example,Ferrous AI,pre_seed,safe_post,2000000,,,,,,no,2026-09-09,,Pioneer Fund (fictional),,reported,https://ferrous.example/blog/funding,Cap not disclosed.
+tallyforge.example,Tallyforge,pre_seed,safe_post,1500000,12000000,post_money,,,,yes,2026-05-19,,,,reported,https://tallyforge.example/blog/funding,

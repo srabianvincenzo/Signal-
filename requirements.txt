@@ -1,0 +1,3 @@
+# Used by Streamlit Community Cloud, which installs from this file.
+# Installs Signal itself and its dependencies from pyproject.toml.
+-e .

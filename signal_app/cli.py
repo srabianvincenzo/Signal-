@@ -186,6 +186,25 @@ def template(kind: str, path: Path) -> None:
 @cli.command("seed")
 def seed() -> None:
     """Load the fictional demo dataset in data/seed/."""
+    for line in load_seed():
+        click.echo(line)
+
+
+@cli.command("dashboard")
+@click.option("--port", default=8501, show_default=True)
+def dashboard(port: int) -> None:
+    """Open the Streamlit dashboard in your browser."""
+    import subprocess
+    import sys
+
+    app = Path(__file__).resolve().parent / "dashboard" / "app.py"
+    subprocess.run([sys.executable, "-m", "streamlit", "run", str(app),
+                    "--server.port", str(port)], check=False)
+
+
+def load_seed() -> list[str]:
+    """Import the seed CSVs. Safe to run repeatedly; returns one summary per file."""
+    summaries = []
     with session_scope() as session:
         source = get_or_create_source(
             session, SourceKind.SEED, "Signal demo data (fictional)",
@@ -194,7 +213,8 @@ def seed() -> None:
         for kind in SEED_ORDER:
             path = SEED_DIR / f"{kind}.csv"
             report = manual.IMPORTERS[kind](session, path, source=source)
-            click.echo(f"{kind}: {report.summary()}")
+            summaries.append(f"{kind}: {report.summary()}")
+    return summaries
 
 
 def _connector(name: str):

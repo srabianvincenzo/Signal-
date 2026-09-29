@@ -15,7 +15,7 @@ and a fictional seed dataset of 20 AI infrastructure companies.
 | 1 | Schema, connector interface, manual/CSV entry, GitHub + HN connectors, seed data | Done |
 | 2 | Snapshot scheduler, Founder and Traction Scores with confidence | Planned |
 | 3 | Valuation estimator, dilution model, sensitivity table | Planned |
-| 4 | Streamlit dashboard | Planned |
+| 4 | Streamlit dashboard | First version (feed, watchlist, company detail, add form) |
 | 5 | Thesis brief generator, chart export, pick tracker | Planned |
 | 6 | Product Hunt, SEC EDGAR, job boards, accelerator lists | Planned |
 
@@ -31,6 +31,18 @@ signal seed                   # load the 20 fictional demo companies
 signal list                   # see what's in the database
 pytest                        # run the test suite
 ```
+
+Open the dashboard:
+
+```bash
+signal dashboard              # opens http://localhost:8501
+```
+
+On an empty database the dashboard offers to create it and load the demo data. It has a
+discovery feed, a watchlist, a company detail page (founders, rounds, traction charts
+with every observation's source) and a form for adding companies. Scores (Phase 2) and
+the valuation card (Phase 3) will appear there once built; for now each company shows
+how much of its founder data is filled in.
 
 Everyday commands:
 
@@ -82,6 +94,9 @@ signal_app/
     manual.py             CSV import and the parsers behind manual entry
     github.py             GitHub REST API
     hackernews.py         HN Firebase API + Algolia HN Search
+  dashboard/
+    app.py                Streamlit pages
+    data.py               queries behind the pages (testable without a browser)
   cli.py                  the `signal` command
 migrations/               Alembic migrations
 data/seed/                fictional demo dataset (companies, founders, rounds, signals)
